@@ -13,36 +13,7 @@ body:
 - type: textarea
   attributes:
     label: Requested Feature
-    description: A concise description of what you're experiencing.
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: Expected Behavior
-    description: A concise description of what you expected to happen.
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
-    placeholder: |
-      1. In this environment...
-      2. With this config...
-      3. Run '...'
-      4. See error...
-  validations:
-    required: true
-- type: textarea
-  attributes:
-    label: Environment
-    description: |
-      Please list all mods used, as well as the OS and mod version.
-      Remember that this pack requires OptiFine or Continuity. [Fabulously Optimized](https://fabulously-optimized.github.io) will work as it has Continuity.
-    value: |
-        - OS:
-        - Minecraft:
-        - Mods:
+    description: A concise description of what you want.
   validations:
     required: true
 - type: textarea
