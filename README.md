@@ -10,9 +10,10 @@ Emissive Ores does what it says - changes ores to be emissive! This pack require
 
 Badges courtesy of [@intergrav](https://github.com/intergrav). Thanks a lot!
 
-<a href="https://github.com/osfanbuff63/emissive-ores/releases/latest"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/available/github_64h.png" alt="Download from GitHub" height="50"></a>
 
 <a href="https://modrinth.com/resourcepack/emissive-ores"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/available/modrinth_64h.png" alt="Download from Modrinth (recommended)" height="50"></a>
+
+<a href="https://github.com/osfanbuff63/emissive-ores/releases/latest"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/available/github_64h.png" alt="Download from GitHub" height="50"></a>
 
 ## License
 
