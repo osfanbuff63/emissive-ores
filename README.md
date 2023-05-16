@@ -4,7 +4,7 @@
 
 Emissive Ores does what it says - changes ores to be emissive! This pack requires OptiFine, [Continuity](https://modrinth.com/mod/continuity) or [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) (recommended).
 
-<a href="https://discord.gg/buPbUvw5FD"><<img alt="Come chat with us on Discord!" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a>
+<a href="https://discord.gg/buPbUvw5FD"><img alt="Come chat with us on Discord!" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a>
 
 ## Download
 
